@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - mortalidade.qmd
+      - href: base_de_dados.qmd
+        text: Base de Dados
+      - previsao.qmd
       - modelos.qmd
     right:  
       - icon: github
